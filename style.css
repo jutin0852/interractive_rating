@@ -74,3 +74,8 @@ button:hover{
 .rate:active{
     background-color: hsl(217, 12%, 63%);
 }
+
+#second{
+    display: none;
+
+}
