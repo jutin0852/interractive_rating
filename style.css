@@ -222,7 +222,7 @@
         width: 140px;
         border-radius: 20px;
         padding: 7px;
-        margin-left: 58px;
+        margin-left: 47px;
     }
     
 
@@ -233,7 +233,7 @@
         display: grid;
         align-items: center;
         justify-content: center;
-        height: 400px;
+        height: 385px;
         background-color: hsl(216, 12%, 8%);
         color: white;}
     #star{
@@ -297,7 +297,7 @@
         width: 140px;
         border-radius: 20px;
         padding: 7px;
-        margin-left: 58px;
+        margin-left: 45px;
     }
     
 
