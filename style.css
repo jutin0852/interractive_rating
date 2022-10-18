@@ -1,0 +1,76 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 745px;
+   background-color: hsl(216, 12%, 8%);
+   color: white;
+  font-family: 'overpass',sans-serif;
+  font-size: 15px;
+   
+}
+#star{
+    background-color: hsl(216, 12%, 54%) ;
+    padding: 20px;
+    border-radius: 50%;
+}
+#center{
+   background-color: hsl(213, 19%, 18%);
+   border-radius: 25px;
+   padding: 30px;
+   
+}
+p{
+    color: hsl(217, 12%, 63%);
+   
+}
+.rate{
+    display: inline-block;
+    border-radius: 50%;
+    background-color: hsl(217, 13%, 34%);
+    width: 25px;
+    height: 20px;
+    padding: 12px;
+    margin: 7px;
+    text-align: center;
+   color:  hsl(216, 34%, 82%)
+}
+.rate:hover{
+    background-color: hsl(25, 97%, 53%) ;
+    cursor: pointer;
+}
+
+button{
+    padding: 15px;
+    width: 340px;
+    background-color: hsl(25, 97%, 53%);
+    border-radius: 30px;
+}
+button:hover{
+    background-color: white;
+    color:hsl(25, 97%, 53%)  ;
+    cursor: pointer;
+}
+#thank{
+    text-align: center;
+}
+#five{
+    background-color: hsl(216, 12%, 34%);
+    color:  hsl(25, 97%, 53%);
+    padding: 5px;
+    width: 200px;
+    margin-left: 60px;
+    border-radius: 20px;
+}
+.active,.active:hover{
+    
+    background-color: hsl(217, 12%, 63%);
+
+}
+.rate:active{
+    background-color: hsl(217, 12%, 63%);
+}
